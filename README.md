@@ -46,7 +46,7 @@ This project was developed as part of the **IBM Front-End Development** exercise
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/arunkumard6025-hub/Blog
+   https://github.com/arunkumard6025-hub/Blog
 2. Deployment:
    
    https://arunkumard6025-hub.github.io/Blog/
